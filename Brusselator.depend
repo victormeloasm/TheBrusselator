@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687567878 source:c:\users\víctor melo\desktop\github\brusselator\brusselator\main.c
+	<stdio.h>
+	<math.h>
+
