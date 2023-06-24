@@ -43,6 +43,6 @@ Feel free to experiment with different parameter values, initial conditions, and
 
 This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
 
-This project was based in the paper https://analogparadigm.com/downloads/alpaca_40.pdf from @Bernd-Ulmann.
+This project was based in the paper https://analogparadigm.com/downloads/alpaca_40.pdf from @bernd-Ulmann.
 
 
